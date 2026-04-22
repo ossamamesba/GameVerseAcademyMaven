@@ -1,0 +1,6 @@
+target/
+*.class
+tomcat.6060/
+dependency-reduced-pom.xml
+.settings/
+bin/
