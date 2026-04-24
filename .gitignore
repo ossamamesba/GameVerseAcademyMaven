@@ -1,0 +1,8 @@
+target/*
+!target/GameVerseAcademy-0.0.1-SNAPSHOT.jar
+*.class
+tomcat.6060/
+dependency-reduced-pom.xml
+.settings/
+bin/
+*.log
