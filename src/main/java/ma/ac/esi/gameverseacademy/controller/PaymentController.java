@@ -16,3 +16,4 @@ public class PaymentController extends HttpServlet {
         request.getRequestDispatcher("/WEB-INF/views/payments.jsp").forward(request, response);
     }
 }
+System.out.println('test stash');
